@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: darkslategrey;
+    
+}
+
+
+p{
+   text-align: center;
+    color: white;
+}
+
+
+h2{
+    background-color: coral;
+    border-style: solid;
+    border-color: coral;
+    border-right: 1px;
+    
+}
+
+div{
+    text-align: left;
+    color: white;
+}
+#portugal{
+    background-color: black;
+}
